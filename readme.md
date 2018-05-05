@@ -4,9 +4,10 @@ Jay Patel
 
 San Jose State University
 
-**Warm-up/ Instructor Verification Form:**
 
-**2.1(a)** Convolve impulses:
+**2.1(a)** 
+
+Convolve impulses:
 $\delta\left\lbrack n - 3 \right\rbrack*\delta\lbrack n - 5\rbrack$ =
 $\delta\mathbf{\lbrack}\mathbf{n}\mathbf{- 8\rbrack}$
 
